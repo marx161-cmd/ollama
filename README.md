@@ -6,6 +6,11 @@
 
 # Ollama
 
+> [!IMPORTANT]
+> This repository is a personal ROCm-oriented fork/snapshot, not the canonical upstream project.
+> I publish local build and runtime changes here because they are useful in practice, even when I am not in a position to maintain a polished long-lived downstream release.
+> Expect maintenance to be opportunistic, not guaranteed, and use upstream `ollama/ollama` as the source of truth for general project status.
+
 Get up and running with large language models.
 
 ### macOS
